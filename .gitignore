@@ -1,3 +1,6 @@
+catboost_info
+pipeline_workshop.ipynb
+
 *.bundle.*
 lib/
 node_modules/
